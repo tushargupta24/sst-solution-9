@@ -1,0 +1,206 @@
+{
+    "sst-solution-9":[
+        {
+        "id":1,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-1 The French Revolution",
+        "download":"assets/images/courses-9/solution/sst/sst-9-history-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-history-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-2 Socialism In Europe And Russian Revolution",
+        "download":"assets/images/courses-9/solution/sst/sst-9-history-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-history-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-3 Nazism And The Rise Of Hitler",
+        "download":"assets/images/courses-9/solution/sst/sst-9-history-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-history-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-4 Deforestation",
+        "download":"assets/images/courses-9/solution/sst/sst-9-history-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-history-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-5 Pastoralists In Modern World",
+        "download":"assets/images/courses-9/solution/sst/sst-9-history-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-history-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-1 India Size And Location",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-2 Physical Features Of India",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-3 Drainage",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-4 Climate",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-5 Natural Vegetation And Wildlife",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":11,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-6 Population",
+        "download":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-6.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-geography-chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":12,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-1 What Is Democracy",
+        "download":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },{
+        "id":13,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-2 Constitutional Design",
+        "download":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":14,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-3 Electoral Politics",
+        "download":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },{
+        "id":15,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-4 Working Of Constitutions",
+        "download":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+      ,{
+        "id":16,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-5 Democratic Rights",
+        "download":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-civics-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+      ,{
+        "id":17,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-1 Story Of Village Palampur",
+        "download":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },{
+        "id":17,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-2 People As Resource",
+        "download":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },{
+        "id":17,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-3 Poverty",
+        "download":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },{
+        "id":17,
+        "subject":"Social Science",
+        "image":"Social Science",
+        "description":"Social Science - Chapter-4 Food Security In India",
+        "download":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/sst/sst-9-economics-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
